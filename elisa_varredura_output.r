@@ -17,7 +17,7 @@
 rm(list = ls())
 
 # Defina o caminho completo de onde esta o seu arquivo (use \\ ou /)
-dir <- "/Users/eulacarrara/Library/CloudStorage/OneDrive-Personal/Sharing/Mateus_UCP"
+dir <- "/Users/Documents/"
 # Defina o nome do seu arquivo com os resultados
 xlsx <- "teste.xlsx"
 
